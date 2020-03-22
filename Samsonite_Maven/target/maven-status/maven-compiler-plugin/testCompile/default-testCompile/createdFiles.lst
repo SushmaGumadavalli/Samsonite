@@ -1,0 +1,6 @@
+com\testscenarios\Registration.class
+com\utilities\Commonfunctions.class
+com\utilities\Staticvariables.class
+com\objectrepository\Locators.class
+com\testscenarios\NewTest.class
+com\testscenarios\Signin.class
